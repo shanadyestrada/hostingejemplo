@@ -1,0 +1,11 @@
+h1 {
+    color: brown;
+}
+.banner-image {
+    width: 400px;
+    margin: auto;
+}
+
+.banner-image img {
+    width: 100%;
+}
